@@ -2,7 +2,7 @@
 
 ### Intro: The journey begins.
 
-Currently decided to learn a new skill after seeing a Wednesday motivation tweet on how to tackle boredom. I choose web development because it was one of the skills listed in the tweet that caught my attention. 
+Currently decided to learn a new skill after seeing a Wednesday motivation tweet on how to tackle boredom. I choose web development because it was one of the skills listed in the tweet that caught my attention. You can also follow me on [Twitter](https://twitter.com/blockchaintron).
 
 ### Day 1: November 11. 2018
 
