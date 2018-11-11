@@ -1,1 +1,2 @@
 # Daily-Blog
+Day 1: Started the day with watching a tutorial on how to clone a webpage. Then proceedd to freecodecamp to finish the CSS curriculum. What i have learnt so far is a lot and im trying fins a way to master them. I also started the #100DaysofCode challenge nine days ago, and you can track my progress here and on twitter:@blochchaintron.
