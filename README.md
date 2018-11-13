@@ -7,3 +7,7 @@ Currently decided to learn a new skill after seeing a Wednesday motivation tweet
 ### Day 1: November 11. 2018
 
 Started the day with watching a tutorial on how to clone a webpage. Then proceedd to freecodecamp to finish the CSS curriculum. What i have learnt so far is a lot and im trying fins a way to master them. I also started the #100DaysofCode challenge nine days ago, and you can track my progress here and on twitter:@blochchaintron.
+
+### Day 2: November 12. 2018
+
+Finished two projcet from Freee Code Camp, the survey form and tribute project. Spen most of my day doing that, and if felt good finishing both task. Also started watching a video about Javascript, it was 3 hours long and i surprised myself and sat through it. The topics covered were challenging, not as easy to understand as HTML and CSS. Its probably due to the fact that i am completely new to the language, and although it might have a steep learning curve, i am bound to challenge. Im certain once i look back after dedicating so many hours to it, it would be worth it.
