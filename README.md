@@ -15,3 +15,7 @@ Finished two projcets from Free Code Camp, the survey form and tribute project w
 ### Day 3: November 13, 2018.
 
 Finished my landing page project for free code camp. It took me a while and i learnt a lot in the process. I just need to keep practicing everyday on code pen, and just build stuff that comes to my head randomly. Also watched a video on CSS grid, i hated it at first, but when he broke it down, i think its way better that flex box. But for me to master it, i need to keep using it every day. Last thing for today is to watch another tutorial on javascript, it looks like its going to be a challenging program for me, but im determined.
+
+### Day 4: November 14, 2018.
+
+Finished my "Technical Documentation" project for free code camp which can be seen [here] https://codepen.io/blockchaintron/pen/jQBgWY. The project took me awhile but learnt alot along the way. I started the Javascript course on Solo-Learn, the way its broken down makes it easy for me to follow as opposed to just watching video tutorials on youtube. I will stick to this learning style for now.  Like i said earlier, it looks like it would take more than a month to learn Javascript and i am williing to be patient.
