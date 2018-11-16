@@ -18,4 +18,9 @@ Finished my landing page project for free code camp. It took me a while and i le
 
 ### Day 4: November 14, 2018.
 
-Finished my "Technical Documentation" project for free code camp which can be seen [here] https://codepen.io/blockchaintron/pen/jQBgWY. The project took me awhile but learnt alot along the way. I started the Javascript course on Solo-Learn, the way its broken down makes it easy for me to follow as opposed to just watching video tutorials on youtube. I will stick to this learning style for now.  Like i said earlier, it looks like it would take more than a month to learn Javascript and i am williing to be patient.
+Finished my "Technical Documentation" project for free code camp which can be seen [here] (https://codepen.io/blockchaintron/pen/jQBgWY). The project took me awhile but learnt alot along the way. I started the Javascript course on Solo-Learn, the way its broken down makes it easy for me to follow as opposed to just watching video tutorials on youtube. I will stick to this learning style for now.  Like i said earlier, it looks like it would take more than a month to learn Javascript and i am williing to be patient.
+
+
+### day 5: November 15, 2018.
+
+Today i started with Head First Javascript book, got through some pages, but did not get through enough because i had to go to work. While at work, i managed to finish the personal portfolio project, my last project for the Responsive Web Design course at Free Code Camp. Then i proceeded to continue the Javascript course on Solo Learn website. So far i understand variables, assignments (=), strings, booleans and numbers. When i learnt html and css, i watched video tutorials and understood the concepts after couple of videos, but its the opposite for Javascript. I am understanding the concepts when i study from a book or  follow steps from a free online course as opposed to video tutorials, i guess its probably due to the learning curve, but im just glad that im understanding the basics so far. 
