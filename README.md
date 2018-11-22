@@ -43,3 +43,11 @@ So today, i began with head first javascript. Started the third chapter and almo
 
 ### Day 20: Novermber 20, 2018.
 As usual, started the day with head first javascript. Learnt abount arrays, which can define multiple thisngs at once. Got halfway through the chapter, then headed to work. At work followed a html and css tutorial and made a landing page. I will try and do that on my tommorow, that way i can really understand certain parts of CSS that i am struggling with.  After work, spent most of my time finishing the arrays chapter.
+
+### Day 21: November 21, 2018.
+
+Started with studdying arrays, the whole one hour i spent, i did not understand what i was reading. Plus i got called into work early, so i could not re-read the chapter to get a better understanding. The whole day, did not do much coding either.
+
+### Day 22: November 22, 2018:
+
+I read the whole chapter on arrays again, and i have a better understanding than the first time i read it. I finally understand what the "i" is for, which is index that represents a value in the array. Creating an empty array, we leave it blank to be latter filled through the function "push" or declaring new variable for it. The "for loop' is better than the "while loop" because in concantenates your code into one statement, pretty much refactors the code to be maintained at a latter date. Post incremental operators are shortcuts to add/minus a value in the index. Lastly sparce arrays are somewhat similar to the literal arrays, but if not careful, you can declare and unknown variable that outputs has undefined. The day is young, more to learn. Happy Thanksgiving!
