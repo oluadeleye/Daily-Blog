@@ -41,13 +41,21 @@ Began the day with following a html and css tutorial on youtube on how to create
 
 So today, i began with head first javascript. Started the third chapter and almost got halfway through before i had to go to work. At work, started practicing html and css grid without any video tutorial. Built a somewhat blog page, here is the [link](https://codepen.io/blockchaintron/full/GwOjXb/) the only issue i had was that the navbar was not working. It was because i used css grid in the body, there seems to be a negative correlation when using css grid and a normal htlm navbar. I still have to research on this matter, and i might try to make the navbar display a grid instaed. So far, i was impressed by how much i could remember without a video tutorial. I think this would be implplemented to my learning style, just build something random out of html and css everyday. Once i got home from work, dived right back into head first javascript and finished the third chapter. Learnt ways to eliminate redundant code, functions, arguments, parameters, return statments (still need to a little bit of a refresher), global variable (mostly avoid if the code is to be maintained for long periods of time), local variable (seems to be the standard in writing clean code), scope, and built in functions (prompt, console.log, and alert). Productive day so far!
 
-### Day 20: Novermber 20, 2018.
+### Day 10: Novermber 20, 2018.
 As usual, started the day with head first javascript. Learnt abount arrays, which can define multiple thisngs at once. Got halfway through the chapter, then headed to work. At work followed a html and css tutorial and made a landing page. I will try and do that on my tommorow, that way i can really understand certain parts of CSS that i am struggling with.  After work, spent most of my time finishing the arrays chapter.
 
-### Day 21: November 21, 2018.
+### Day 11: November 21, 2018.
 
 Started with studdying arrays, the whole one hour i spent, i did not understand what i was reading. Plus i got called into work early, so i could not re-read the chapter to get a better understanding. The whole day, did not do much coding either.
 
-### Day 22: November 22, 2018:
+### Day 12: November 22, 2018.
 
 I read the whole chapter on arrays again, and i have a better understanding than the first time i read it. I finally understand what the "i" is for, which is index that represents a value in the array. Creating an empty array, we leave it blank to be latter filled through the function "push" or declaring new variable for it. The "for loop' is better than the "while loop" because in concantenates your code into one statement, pretty much refactors the code to be maintained at a latter date. Post incremental operators are shortcuts to add/minus a value in the index. Lastly sparce arrays are somewhat similar to the literal arrays, but if not careful, you can declare and unknown variable that outputs has undefined. The day is young, more to learn. Happy Thanksgiving!
+
+### Day 13: November 23, 2018.
+
+In the head first javascript book, moved onto the next chapter which was on objects. Objects are a collection of properties, which hole values. primitiive variables are variables that hold each of the own values. The dot.notation makes the us access object and properties, and also methods which are functions inside an objects. Lastly "this" used to specify an objects outside the declaration.
+
+### Day 14: November 24, 2018.
+
+Started the Document Object Model (DOM), and my understanding is that javascript access the HTML, which is the document and makes in dynamic. In other words, the HTML file is needed for DOM to work. The document is like the root of an upside down tree, and the elements (head, body) are like branches. getElementById is a way to access the DOM and innerHTML is the next step to change things in the html document. setAttribute can be used to change the color of an element. I personnaly like the document object model, it sure makes your code very organized and clean. As i progress through the chapters, it seems that there is always a convinient way to write Javascript.
