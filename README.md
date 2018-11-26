@@ -59,3 +59,7 @@ In the head first javascript book, moved onto the next chapter which was on obje
 ### Day 14: November 24, 2018.
 
 Started the Document Object Model (DOM), and my understanding is that javascript access the HTML, which is the document and makes in dynamic. In other words, the HTML file is needed for DOM to work. The document is like the root of an upside down tree, and the elements (head, body) are like branches. getElementById is a way to access the DOM and innerHTML is the next step to change things in the html document. setAttribute can be used to change the color of an element. I personnaly like the document object model, it sure makes your code very organized and clean. As i progress through the chapters, it seems that there is always a convinient way to write Javascript.
+
+### Day 14: November 25 2018.
+
+The seriuos types chapter was a lot! Went over definitions such as undefined, null, NaN etc... Learnt how the differecnce between == and ===, and how the latter is more used because it keeps ypur code clean and organized. When compairing strings and numbers, e.g var nums = '30' == 30; the string gets converted to a number 30 and excutes the command, the output true. In the case of === it would be false and there would be no conversion of that sort. The DOM seems like it would make my life easier, looking forward to learning more.
